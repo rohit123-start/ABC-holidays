@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Rohit",
+      "gmail": "rohitlgajam123@gmail.com",
+      "amount": "12000",
+      "location": "Dubai",
+      "id": 2
+    },
+    {
+      "name": "Rohit",
+      "gmail": "rohit@gmail.com",
+      "amount": "12000",
+      "location": "Mumbai",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
